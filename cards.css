@@ -1,0 +1,109 @@
+.content{
+    font-size:22.7066px;
+    font-family: 'inter', sans-serif;
+    text-align: center;
+    margin-top: 30.72px;
+    font-style: bold;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 710px;   
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    flex-grow: 1;
+}
+.trial{
+    width: 238px;
+    height: 233px;
+    border: #ecf1f4 1px solid;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 14px 0px 0px;
+}
+.infos{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.images{
+    width: 19.68px;
+    height: 20px;
+    margin: 35px 110.82px -80px 107.5px;
+    padding-bottom: 21px;
+}
+.text-box{
+    position: static;
+    font-size: 14px;
+    text-align: center;
+    margin: 80px 0px 0px 0%;
+    color: #4C6670;
+    font-weight: 800;
+    line-height: 28px;
+}
+.limitations{
+    position: static;
+    font-size: 12px;
+    text-align: center;
+    font-style: italic;
+    color: #4C6670;
+    font-weight: 500;
+}
+.basic{
+    width: 238px;
+    height: 233px;
+    border: #ecf1f4 1px solid;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    margin: 0px 14px 0px 0px;
+    
+}
+.advanced{
+    width: 238px;
+    height: 233px;
+    border: #ecf1f4 1px solid;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 14px 0px 0px;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #ecf1f4;
+    cursor: pointer;
+    width: 710px;
+    margin: auto;
+    flex-grow: 1;
+}
+.free{
+    width: 238px;
+    height: 50px;
+    background-color: #ecf1f4;
+    font-weight: 600;
+    color: #4C6670;
+
+}
+.text-button{
+    position: static;
+    font-size: 14px;
+    text-align: center;
+    margin: 13px 0px 0px 0%;
+}
+.ten{
+    width: 238px;
+    height: 50px;
+    background-color: #ecf1f4;
+    font-weight: 600;
+    color: #4C6670;
+}
+.six{
+    width: 238px;
+    height: 50px;
+    background-color: #ecf1f4;
+    font-weight: 600;
+    color: #4C6670;
+}
